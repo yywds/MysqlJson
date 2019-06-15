@@ -1,0 +1,108 @@
+{
+    "project_type": "gradle",
+    "android_gradle_plugin_version": "3.1.2",
+    "freeline_gradle_plugin_version": "0.8.8",
+    "java_home": "C:\\Program Files\\Java\\jdk1.8.0_121",
+    "freeline_cache_dir": "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp",
+    "auto_dependency": true,
+    "product_flavor": "",
+    "build_script": "gradlew.bat :app:assembleDebug",
+    "build_script_work_directory": "",
+    "root_dir": "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp",
+    "main_project_name": "app",
+    "main_project_dir": "app",
+    "build_directory": "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp\\app\\build",
+    "build_cache_dir": "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp\\app\\build\\freeline",
+    "build_tools_version": "27.0.3",
+    "sdk_directory": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk",
+    "build_tools_directory": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\build-tools\\27.0.3",
+    "compile_sdk_version": "android-27",
+    "compile_sdk_directory": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\platforms\\android-27",
+    "package": "com.example.administrator.testapp",
+    "debug_package": "com.example.administrator.testapp",
+    "main_manifest_path": "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp\\app\\src\\main\\AndroidManifest.xml",
+    "launcher": "com.example.administrator.testapp.MainActivity",
+    "apk_path": "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp\\app\\build\\outputs\\apk\\debug\\app-debug.apk",
+    "extra_dep_res_paths": [
+        
+    ],
+    "exclude_dep_res_paths": [
+        
+    ],
+    "main_r_path": "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp\\app\\build\\generated\\source\\r\\debug\\R.java",
+    "use_jdk8": true,
+    "ignore_resource_ids": [
+        "avd_hide_password_1",
+        "avd_hide_password_2",
+        "avd_hide_password_3",
+        "avd_show_password_1",
+        "avd_show_password_2",
+        "avd_show_password_3"
+    ],
+    "use_system_gradle": false,
+    "check_sources_md5": [
+        
+    ],
+    "main_src_directory": [
+        "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp\\app\\src\\debug\\java",
+        "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp\\app\\src\\main\\java"
+    ],
+    "main_res_directory": [
+        "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp\\app\\src\\debug\\res",
+        "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp\\app\\src\\main\\res"
+    ],
+    "main_assets_directory": [
+        "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp\\app\\src\\debug\\assets",
+        "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp\\app\\src\\main\\assets"
+    ],
+    "main_jni_directory": [
+        "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp\\app\\src\\debug\\jni",
+        "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp\\app\\src\\main\\jni"
+    ],
+    "main_jniLibs_directory": [
+        "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp\\app\\src\\debug\\jniLibs",
+        "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp\\app\\src\\main\\jniLibs"
+    ],
+    "project_source_sets": {
+        "app": {
+            "main_src_directory": [
+                "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp\\app\\src\\debug\\java",
+                "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp\\app\\src\\main\\java"
+            ],
+            "main_res_directory": [
+                "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp\\app\\src\\debug\\res",
+                "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp\\app\\src\\main\\res"
+            ],
+            "main_assets_directory": [
+                "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp\\app\\src\\debug\\assets",
+                "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp\\app\\src\\main\\assets"
+            ],
+            "main_jni_directory": [
+                "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp\\app\\src\\debug\\jni",
+                "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp\\app\\src\\main\\jni"
+            ],
+            "main_jniLibs_directory": [
+                "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp\\app\\src\\debug\\jniLibs",
+                "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp\\app\\src\\main\\jniLibs"
+            ],
+            "main_manifest_path": "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp\\app\\src\\main\\AndroidManifest.xml"
+        }
+    },
+    "modules": [
+        {
+            "name": "app",
+            "path": "C:\\Users\\Administrator\\AndroidStudioProjects\\TestApp\\app"
+        }
+    ],
+    "module_dependencies": {
+        "app": [
+            
+        ]
+    },
+    "databinding": [
+        
+    ],
+    "databinding_modules": [
+        
+    ]
+}
